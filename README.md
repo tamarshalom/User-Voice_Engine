@@ -1,6 +1,6 @@
 #  VoiceEngine AI: Spotify Feedback Analyzer
 
-![Dashboard Screenshot](./spotify.png)
+![Dashboard Screenshot](./Dashboardscreenshot/spotify.png)
 
 
 
