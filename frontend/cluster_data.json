@@ -1,0 +1,443 @@
+[
+  {
+    "text": "The app crashes every time I open settings",
+    "cluster_id": 3,
+    "topic_name": "Improve Security Features",
+    "coords": [
+      27.318279266357422,
+      -16.453149795532227
+    ]
+  },
+  {
+    "text": "FaceID never works on the first try",
+    "cluster_id": 3,
+    "topic_name": "Improve Security Features",
+    "coords": [
+      -8.799320220947266,
+      22.32522201538086
+    ]
+  },
+  {
+    "text": "I need a dark mode my eyes are burning",
+    "cluster_id": 1,
+    "topic_name": "Add Dark Mode",
+    "coords": [
+      -38.515777587890625,
+      -0.36159470677375793
+    ]
+  },
+  {
+    "text": "Notifications are delayed by like 20 minutes",
+    "cluster_id": 0,
+    "topic_name": "Improve Notification System",
+    "coords": [
+      25.040239334106445,
+      -5.764615058898926
+    ]
+  },
+  {
+    "text": "The search function is way too slow",
+    "cluster_id": 2,
+    "topic_name": "Improve App Performance",
+    "coords": [
+      11.950180053710938,
+      -22.054719924926758
+    ]
+  },
+  {
+    "text": "Login failed even though my password is correct",
+    "cluster_id": 3,
+    "topic_name": "Improve Security Features",
+    "coords": [
+      5.515052318572998,
+      26.4022159576416
+    ]
+  },
+  {
+    "text": "Why is the interface so bright white?",
+    "cluster_id": 1,
+    "topic_name": "Add Dark Mode",
+    "coords": [
+      -32.413795471191406,
+      -3.755364418029785
+    ]
+  },
+  {
+    "text": "It takes forever to load my transaction history",
+    "cluster_id": 2,
+    "topic_name": "Improve App Performance",
+    "coords": [
+      11.803159713745117,
+      -15.666536331176758
+    ]
+  },
+  {
+    "text": "Fingerprint scanner is hit or miss",
+    "cluster_id": 3,
+    "topic_name": "Improve Security Features",
+    "coords": [
+      -10.492097854614258,
+      24.02373695373535
+    ]
+  },
+  {
+    "text": "I missed a deposit alert because the app was silent",
+    "cluster_id": 0,
+    "topic_name": "Improve Notification System",
+    "coords": [
+      14.361666679382324,
+      2.832078456878662
+    ]
+  },
+  {
+    "text": "Please add a night theme for evening use",
+    "cluster_id": 1,
+    "topic_name": "Add Dark Mode",
+    "coords": [
+      -33.95276641845703,
+      2.423921585083008
+    ]
+  },
+  {
+    "text": "The app freezes when I scroll down too fast",
+    "cluster_id": 2,
+    "topic_name": "Improve App Performance",
+    "coords": [
+      24.833362579345703,
+      -22.902114868164062
+    ]
+  },
+  {
+    "text": "Can't reset my password the link is dead",
+    "cluster_id": 3,
+    "topic_name": "Improve Security Features",
+    "coords": [
+      6.924139976501465,
+      23.600364685058594
+    ]
+  },
+  {
+    "text": "Too much white space it hurts to look at",
+    "cluster_id": 1,
+    "topic_name": "Add Dark Mode",
+    "coords": [
+      -31.61258888244629,
+      -7.9773173332214355
+    ]
+  },
+  {
+    "text": "Push notifications are totally broken",
+    "cluster_id": 0,
+    "topic_name": "Improve Notification System",
+    "coords": [
+      27.68535804748535,
+      -6.915900230407715
+    ]
+  },
+  {
+    "text": "Scrolling feels very laggy on my iPhone 12",
+    "cluster_id": 2,
+    "topic_name": "Improve App Performance",
+    "coords": [
+      22.955238342285156,
+      -21.33155632019043
+    ]
+  },
+  {
+    "text": "Biometric login is completely broken",
+    "cluster_id": 3,
+    "topic_name": "Improve Security Features",
+    "coords": [
+      -2.6050455570220947,
+      26.79914093017578
+    ]
+  },
+  {
+    "text": "I want a black background option",
+    "cluster_id": 1,
+    "topic_name": "Add Dark Mode",
+    "coords": [
+      -42.04302978515625,
+      -4.210205554962158
+    ]
+  },
+  {
+    "text": "Alerts show up twice for every transaction",
+    "cluster_id": 0,
+    "topic_name": "Improve Notification System",
+    "coords": [
+      16.594919204711914,
+      -2.827270746231079
+    ]
+  },
+  {
+    "text": "Loading screen gets stuck at 99%",
+    "cluster_id": 2,
+    "topic_name": "Improve App Performance",
+    "coords": [
+      30.948598861694336,
+      -30.81599998474121
+    ]
+  },
+  {
+    "text": "Sign in button is greyed out",
+    "cluster_id": 3,
+    "topic_name": "Improve Security Features",
+    "coords": [
+      2.479816436767578,
+      23.481054306030273
+    ]
+  },
+  {
+    "text": "Dark theme would save so much battery",
+    "cluster_id": 1,
+    "topic_name": "Add Dark Mode",
+    "coords": [
+      -39.555702209472656,
+      5.2303786277771
+    ]
+  },
+  {
+    "text": "I get logged out automatically every hour",
+    "cluster_id": 3,
+    "topic_name": "Improve Security Features",
+    "coords": [
+      3.120270252227783,
+      32.245277404785156
+    ]
+  },
+  {
+    "text": "The app is sluggish and unresponsive",
+    "cluster_id": 2,
+    "topic_name": "Improve App Performance",
+    "coords": [
+      21.386388778686523,
+      -26.018949508666992
+    ]
+  },
+  {
+    "text": "Ghost notifications that disappear when I click",
+    "cluster_id": 0,
+    "topic_name": "Improve Notification System",
+    "coords": [
+      25.22616195678711,
+      -3.123758554458618
+    ]
+  },
+  {
+    "text": "Face recognition fails in low light",
+    "cluster_id": 3,
+    "topic_name": "Improve Security Features",
+    "coords": [
+      -11.918025016784668,
+      19.66680335998535
+    ]
+  },
+  {
+    "text": "Please implement a dark UI",
+    "cluster_id": 1,
+    "topic_name": "Add Dark Mode",
+    "coords": [
+      -41.942970275878906,
+      0.41470199823379517
+    ]
+  },
+  {
+    "text": "Transactions take 10 seconds to appear",
+    "cluster_id": 2,
+    "topic_name": "Improve App Performance",
+    "coords": [
+      12.261632919311523,
+      -13.441473960876465
+    ]
+  },
+  {
+    "text": "I'm not getting any alerts for payments",
+    "cluster_id": 0,
+    "topic_name": "Improve Notification System",
+    "coords": [
+      16.418886184692383,
+      0.009939836338162422
+    ]
+  },
+  {
+    "text": "Login loop keeps sending me back to start",
+    "cluster_id": 3,
+    "topic_name": "Improve Security Features",
+    "coords": [
+      7.3246965408325195,
+      31.229629516601562
+    ]
+  },
+  {
+    "text": "White background is too harsh",
+    "cluster_id": 1,
+    "topic_name": "Add Dark Mode",
+    "coords": [
+      -34.05504608154297,
+      -6.26430606842041
+    ]
+  },
+  {
+    "text": "The app drains my battery because of the bright screen",
+    "cluster_id": 1,
+    "topic_name": "Add Dark Mode",
+    "coords": [
+      -28.62153434753418,
+      3.1967380046844482
+    ]
+  },
+  {
+    "text": "Search results take forever to populate",
+    "cluster_id": 2,
+    "topic_name": "Improve App Performance",
+    "coords": [
+      11.35361099243164,
+      -20.124656677246094
+    ]
+  },
+  {
+    "text": "Notification sound does not play",
+    "cluster_id": 0,
+    "topic_name": "Improve Notification System",
+    "coords": [
+      29.227643966674805,
+      -3.0217742919921875
+    ]
+  },
+  {
+    "text": "Cannot authenticate with TouchID",
+    "cluster_id": 3,
+    "topic_name": "Improve Security Features",
+    "coords": [
+      -6.038506984710693,
+      22.858766555786133
+    ]
+  },
+  {
+    "text": "Night mode is a must have feature",
+    "cluster_id": 1,
+    "topic_name": "Add Dark Mode",
+    "coords": [
+      -36.02315902709961,
+      4.512050628662109
+    ]
+  },
+  {
+    "text": "The dashboard lags when I switch tabs",
+    "cluster_id": 2,
+    "topic_name": "Improve App Performance",
+    "coords": [
+      19.087020874023438,
+      -29.082189559936523
+    ]
+  },
+  {
+    "text": "I have to restart the app to get notifications",
+    "cluster_id": 0,
+    "topic_name": "Improve Notification System",
+    "coords": [
+      27.367755889892578,
+      -9.121513366699219
+    ]
+  },
+  {
+    "text": "Password field clears itself randomly",
+    "cluster_id": 3,
+    "topic_name": "Improve Security Features",
+    "coords": [
+      -0.16829083859920502,
+      32.09218978881836
+    ]
+  },
+  {
+    "text": "Too bright for night time usage",
+    "cluster_id": 1,
+    "topic_name": "Add Dark Mode",
+    "coords": [
+      -31.41861343383789,
+      -0.09460268169641495
+    ]
+  },
+  {
+    "text": "App becomes unresponsive after minimize",
+    "cluster_id": 2,
+    "topic_name": "Improve App Performance",
+    "coords": [
+      23.99117088317871,
+      -28.21568489074707
+    ]
+  },
+  {
+    "text": "Notifications stack up and freeze the phone",
+    "cluster_id": 0,
+    "topic_name": "Improve Notification System",
+    "coords": [
+      27.88691520690918,
+      -23.56902503967285
+    ]
+  },
+  {
+    "text": "Biometrics disabled themselves randomly",
+    "cluster_id": 3,
+    "topic_name": "Improve Security Features",
+    "coords": [
+      -2.5388219356536865,
+      28.91205406188965
+    ]
+  },
+  {
+    "text": "Dark mode please!",
+    "cluster_id": 1,
+    "topic_name": "Add Dark Mode",
+    "coords": [
+      -39.645137786865234,
+      1.9005677700042725
+    ]
+  },
+  {
+    "text": "Loading circle just spins forever",
+    "cluster_id": 2,
+    "topic_name": "Improve App Performance",
+    "coords": [
+      32.33824157714844,
+      -32.241188049316406
+    ]
+  },
+  {
+    "text": "I never know when I get money because no alert",
+    "cluster_id": 0,
+    "topic_name": "Improve Notification System",
+    "coords": [
+      17.059310913085938,
+      2.1512928009033203
+    ]
+  },
+  {
+    "text": "Login error code 503 every morning",
+    "cluster_id": 3,
+    "topic_name": "Improve Security Features",
+    "coords": [
+      5.736151218414307,
+      28.819149017333984
+    ]
+  },
+  {
+    "text": "It hurts my eyes to check balance at night",
+    "cluster_id": 1,
+    "topic_name": "Add Dark Mode",
+    "coords": [
+      -27.923952102661133,
+      -1.7694896459579468
+    ]
+  },
+  {
+    "text": "The app is slower than the website",
+    "cluster_id": 2,
+    "topic_name": "Improve App Performance",
+    "coords": [
+      19.464303970336914,
+      -24.803421020507812
+    ]
+  }
+]
